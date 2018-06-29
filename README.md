@@ -1,7 +1,7 @@
-Web blog
+MongoDB Blog 
 ========
 
-This is a simple web-based blog that doesn't do much but introduces Flask, HTML, CSS, Bootstrap, Jinja2, and other concepts such as endpoints and APIs.
+This is a simple web-based blog that uses Flask, HTML, CSS, Bootstrap, Jinja2.
 
 The blog requires MongoDB to be running without authentication enabled.
 
